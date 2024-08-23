@@ -9,7 +9,6 @@ Soy un tecnólogo en desarrollo de software con experiencia en el desarrollo de 
 - 👯 Estoy interesado en colaborar en proyectos web emocionantes y desafiantes.
 - 💬 ¡Me encantaría charlar contigo sobre desarrollo web, tecnologías y proyectos interesantes!
 - 📫 Puedes contactarme a través de mi correo electrónico [alfonso.fonseca.t@gmail.com](mailto:alfonso.fonseca.t@gmail.com)
-- 😄 Pronombres: Él/él
 - ⚡ Dato curioso: Me apasionan los drones y disfruto volarlos en mi tiempo libre.
 
 ## Experiencia y Habilidades
