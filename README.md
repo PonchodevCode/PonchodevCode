@@ -1,6 +1,6 @@
 # ¡Hola! Soy Alfonso Fonseca 👋
 
-Soy un tecnólogo en desarrollo de software con experiencia en el desarrollo de aplicaciones web front-end. Me apasiona trabajar con tecnologías como Node.js, React.js, MongoDB y Express, y tengo un amplio conocimiento en desarrollo web con experiencia superior a 6 años en el campo de la digitalización, programación y marketing digital (SEO y SEM).
+Soy tecnólogo en desarrollo de software con experiencia en el desarrollo de aplicaciones web front-end. Me apasiona trabajar con tecnologías como Node.js, React.js, Next.js, MongoDB y Express, y tengo un amplio conocimiento en desarrollo web con experiencia superior a 6 años en el campo de la digitalización, programación.
 
 ## Acerca de mí
 
