@@ -13,14 +13,16 @@ Soy tecnólogo en desarrollo de software con experiencia en el desarrollo de apl
 
 ## Experiencia y Habilidades
 
-- Desarrollo web con Next.js, React.js, MongoDB y Express.
+- Desarrollo web con Python, Django, Next.js, React.js, MongoDB y Express.
 - Conocimiento en PHP, HTML5 y CSS3.
 - Experiencia en gestores de contenidos web CMS WordPress y plugins de comercio electrónico WooCommerce.
-- Conocimientos en Cpanel, AWS, implementación de API's, Plugins y Pasarelas de Pago.
+- Conocimientos en Cpanel, AWS, implementación de API's, Docker, Plugins y Pasarelas de Pago.
 - Experiencia en metodología de trabajo Scrum.
 
 ## Tecnologías que utilizo
 
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square)
+![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white&style=flat-square)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat-square)
 ![React.js](https://img.shields.io/badge/-React.js-61DAFB?logo=react&logoColor=white&style=flat-square)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat-square)
