@@ -1,10 +1,10 @@
 # ¡Hola! Soy Alfonso Fonseca 👋
 
-Soy tecnólogo en desarrollo de software con experiencia en el desarrollo de aplicaciones web front-end. Me apasiona trabajar con tecnologías como Python, Django, Node.js, React.js, Next.js, MongoDB y Express, y tengo un amplio conocimiento en desarrollo web con experiencia superior a 6 años en el campo de la digitalización, programación.
+Soy Ingeniero de sistemas, con experiencia en el desarrollo de aplicaciones web front-end. Me apasiona trabajar con tecnologías como Python, Django, Node.js, React.js, Next.js, MongoDB y Express, y tengo un amplio conocimiento en desarrollo web con experiencia superior a 6 años en el campo de la digitalización, programación.
 
 ## Acerca de mí
 
-- 🔭 Actualmente trabajo como desarrollador web con enfoque en Python, Django, React.js y Next.js.
+- 🔭 Actualmente trabajo como desarrollador web (Full stack) con enfoque en Magento, Anguular, Python, Django, React.js y Next.js.
 - 🌱 Siempre estoy aprendiendo y mejorando mis habilidades en desarrollo de software.
 - 👯 Estoy interesado en colaborar en proyectos web emocionantes y desafiantes.
 - 💬 ¡Me encantaría charlar contigo sobre desarrollo web, tecnologías y proyectos interesantes!
